@@ -1,0 +1,277 @@
+body{
+   font-family: Tohoma;
+   font-size: 13px;
+   width: 1350px;
+   margin: 0px auto;  
+   background-color: rgb(17, 18, 19);
+}
+#menutop{
+    background-color: rgb(109, 190, 228);
+    height: 50px;
+}
+#banner{
+    height: auto;
+    width: 1350px;
+    
+}
+h1{
+    color: blue;
+    margin-left: 30px;
+}
+#main #left{
+    width: 900px;
+    float:left;
+    min-height: 400px;
+    
+    
+}
+#main #right{
+    width: 450px;
+    min-height: auto;
+    float:left;
+    margin-top: -25px;
+    
+    
+    
+    
+}
+#footer{
+    background: #000;
+    width: 100%;
+    text-align: center;
+    height: 60px;
+   
+    clear: left;
+    line-height: 60px;   
+    list-style: none;
+    text-decoration: none;
+}
+#footer ul li{
+    list-style: none;
+    float:left;
+
+    
+}
+
+
+#footer ul li a{
+    
+    text-decoration: none;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    color: #FFF;
+    padding: 0px 50px 0px 50px;
+    margin: 10px 60px 0px 10px;
+    font-size: medium;
+}
+.ft1{
+    text-align: center;
+}
+
+
+#menutop ul{
+    margin: 0px;
+    padding:0px ;
+    font-size: 15px;
+}
+#menutop ul li{
+    list-style: none;
+    float:left;
+}
+#menutop ul li a{
+    text-decoration: none;
+    display: block;
+    height: 50px;
+    line-height: 50px;
+    color: #FFF;
+    padding: 0px 50px 0px 50px;
+    border-right: 1px solid #ccc;
+}
+#menutop ul li a.active{
+    background: blue;
+
+}
+#csns{
+    margin-left: 1000px;
+    margin-top: -50px;
+    
+   
+    
+}
+
+
+#main #left ul{
+    margin: 0px;
+    padding: 0px;
+    float:left;
+    margin-left: 30px;
+    
+}
+#main #left ul li{
+    list-style: none;
+    clear:left;
+    border-bottom: 2px solid #ccc;
+    float:left;
+    margin-bottom: 20px;
+    font-size: 18px;
+}
+
+
+#main #left ul li img{
+    float:left;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+#main #left ul li a{
+    text-decoration: none;
+    color: #FFF;
+
+
+}
+#main #left ul li h2{
+    font-size: 20px;
+    margin-top: 0px;
+    color: #FFF;
+
+}
+#main #left ul li p{
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: gray;
+
+}
+#main{
+    margin-top: 10px;
+}
+#menutop ul  input{
+       padding:5px;
+       margin: 10px;
+       width: 100px;
+       
+      
+}
+#main #right  img{
+    text-align: center;
+    padding: 10px;
+   
+}
+
+
+.chenchu{
+    color: #fff;
+    position: absolute;
+    padding-left: 80px;
+    padding-top: 200px;
+    
+    
+}
+.kobasolo{
+    color: #fff;
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 110px;
+}
+.hoaminzy{
+    color: #fff;
+    position: absolute;
+    padding-left: 60px;
+    padding-top: 110px;
+}
+.baga{
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+}
+.baga1{
+    color:#FFF;
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 110px;
+}
+.jiyeon{
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+}
+.jiyeon1{
+    color:#FFF;
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 110px;
+}
+.tara{
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+}
+.ara{
+    color:#FFF;
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 110px;
+}
+
+.slide{
+    width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: 30px;
+    border-radius: 10px;
+    position: relative;
+}
+.chuyen-slide{
+    width: 9999px;
+    transition: all 0.5s;
+}
+.slide img{
+    width: 1000px;
+    height: 300px;
+    float:left;
+}
+.dieuhuong{
+   position: absolute;
+   color: white;
+   font-size: 40px;
+   top:48%;
+   padding-left: 20px;
+}
+.dieuhuong i:last-child{
+    position: relative;
+    left:870px;
+}
+pre{
+    color: #FFF;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+#main #bot{
+    width: 100%;
+    float:left;
+    min-height: 170px;
+    background-color: rgb(17, 18, 19);
+    
+    
+}
+#main #bot a{
+   
+    
+    float:left;
+    margin: 10px 20px 10px 20px;
+    margin-right: 57px;
+    padding-right: 40px;
+    padding-left: -10px;
+    text-decoration: none
+   
+
+}
+
+
+
+    
+    
+
+
+
+    
